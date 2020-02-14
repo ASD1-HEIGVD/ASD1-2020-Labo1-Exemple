@@ -1,4 +1,10 @@
-# Test-Matplotlibcpp
+# ASD1 - Labo 1
+
+## But
+
+Le but de ce laboratoire est de calculer, mesurer et grapher les complexités de plusieurs fonctions fournies. Ce repository fournit plusieurs exemples de génération de graphes en C++.
+
+## En pratique
 
 Ce projet doit être configuré au moyen de CMake, par exemple en utilisant CLion. Il est aussi possible de compiler directement les fichiers en adaptant la commande suivante
 
